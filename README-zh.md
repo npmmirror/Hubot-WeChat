@@ -136,7 +136,7 @@
 * 开发环境
   - Nodejs 和 npm
   - `npm install` 获取所有依赖的node模块.
-    + 墙内的话，请添加选项 `--registry=https://registry.npm.taobao.org`
+    + 墙内的话，请添加选项 `--registry=https://registry.npmmirror.com`
 * 编程语言
   - coffeeScript
   - coffeelint 检查coffeescript代码的风格和bugs 

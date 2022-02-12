@@ -160,7 +160,7 @@
 * DevEnv
   - Nodejs and npm
   - Use `npm install` to get all the node modules
-    + Inside greatwall, add option `--registry=https://registry.npm.taobao.org`
+    + Inside greatwall, add option `--registry=https://registry.npmmirror.com`
 * Programming Language
   - coffeeScript
   - coffeelint to checkstyle 
